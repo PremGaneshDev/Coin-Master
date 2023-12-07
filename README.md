@@ -1,4 +1,4 @@
-# Hello kjbnlabs
+# Hello KJBN labs
 
 A Flutter Project by PremGanesh Darabala
 
@@ -28,6 +28,8 @@ In this project, I've demonstrated my proficiency in the following areas:
 
 - [LinkedIn Profile](https://www.linkedin.com/in/premganesh-darabala/)
 - [Portfolio Website](https://premganeshd.web.app)
+- [GitHub](https://github.com/PremGanesh0)
+
 
 Feel free to connect with me on LinkedIn to stay updated on my latest projects and professional endeavors. I'm always open to collaboration and new opportunities in the world of technology and development.
 
